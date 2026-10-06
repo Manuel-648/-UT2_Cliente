@@ -17,4 +17,9 @@
 <img width="862" height="890" alt="Captura de pantalla 2026-10-06 140948" src="https://github.com/user-attachments/assets/5c8f79aa-e531-462c-b677-83282bf2ab78" />
 
 **Explicación:**
+
 Aunque ambos producen un **ReferenceError**, en **Log E** ocurre por que impuesto está fuera de su ámbito de bloque, mientras que en **Log F** ocurre por que precio se usa dentro de la **TDZ**, antes de inicializarse.
+
+**Conclusión Crítica:**
+
+"var" puede causar valores inesperados por el hoisting y problemas de alcance al no respetar los bloques (Logs A y D). Esto dificulta controlar las variables y aumenta el riesgo de errores en aplicaciones grandes (Log E).
