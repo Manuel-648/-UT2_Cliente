@@ -31,3 +31,10 @@ El error se encuentra en la línea 2 (if (num % 2 = 0) {) de forma que nos encon
 ## Ejercicio 7: Callback defectuoso.
 
 El error lo encontramos en la línea 2 (callback(dat);), de nuevo un error de referencia ya que "dat" no ha sido declarado, para solucionarlo deberíamos de poner "datos".
+
+## Ejercicio 8: Evento click sospechoso (HTML + JS).
+
+Nos encontramos en este caso con 2 errores:
+
+* Nombre de archivo: Se debería de llamar "(nombre).html" en vez de "(nombre).js" como tenia anteriormente en mi caso.
+* Error de referencia: La variable se delcara como "msg" y luego es llamada como "msj" en la línea 10.
