@@ -15,3 +15,7 @@ Para que no de error (lógico), habría que invertir los símbolos, es decir: if
 ## Ejercicio 3: Return of the Jedi.
 
 Nos encontramos de nuevo con un error lógico, ya que en la línea 3 (// return ofthejedi;) está comentado el return y ese es el error, no devuelve el resultado.
+
+## Ejercicio 4: Names, names...
+
+De nuevo nos encontramos con un error de referencia, ya que se ha se ha declarado la función "nombre" y la hemos llamado "name" de forma que sale error por que no ha sido declarada anteriormente.
