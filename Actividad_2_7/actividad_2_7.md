@@ -11,3 +11,7 @@ Como se ve en la imagen, sale un error de referencia, es decir, "reslt" no esta 
 En la línea 2 se ve lo siguiente: 
 if (edad => 18) {
 Para que no de error (lógico), habría que invertir los símbolos, es decir: if (edad >= 18) {
+
+## Ejercicio 3: Return of the Jedi.
+
+Nos encontramos de nuevo con un error lógico, ya que en la línea 3 (// return ofthejedi;) está comentado el return y ese es el error, no devuelve el resultado.
