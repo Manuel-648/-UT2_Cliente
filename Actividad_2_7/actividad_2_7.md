@@ -19,3 +19,7 @@ Nos encontramos de nuevo con un error lógico, ya que en la línea 3 (// return 
 ## Ejercicio 4: Names, names...
 
 De nuevo nos encontramos con un error de referencia, ya que se ha se ha declarado la función "nombre" y la hemos llamado "name" de forma que sale error por que no ha sido declarada anteriormente.
+
+## Ejercicio 5: Out of control.
+
+Nos encontramos de nuevo con un error lógico, ya que el array tiene 4 elementos (0-3) pero la condición (let i = 0; i <= numeros.length; i++) hace que "i" llegue a 4.
