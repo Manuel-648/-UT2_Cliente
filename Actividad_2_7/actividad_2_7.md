@@ -45,4 +45,4 @@ Nos encontramos con un error lógico, ya que en la línea 10 (console.log(calcul
 
 **Opinión personal**
 
-Personalmente, los ejercicios donde más me han costado encontrar el/los errores son el 6 y el 8, ya que en el 6, personalmente no llevo bien lo =/==/===. En el ejercicio 9 había visto el error de referencia, pero el 2 error seguía sin verlo ya que inconscientemente cuando pegué el código de los ejercicios los pegué todos en archivos .js, pero en ese ejercicio me di cuenta tarde de que era .html
+Personalmente, los ejercicios donde más me han costado encontrar el/los errores son el 6 y el 8, ya que en el 6, personalmente no llevo bien lo =/==/===. En el ejercicio 8 había visto el error de referencia, pero el 2 error seguía sin verlo ya que inconscientemente cuando pegué el código de los ejercicios los pegué todos en archivos .js, pero en ese ejercicio me di cuenta tarde de que era .html
