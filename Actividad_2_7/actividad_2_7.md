@@ -23,3 +23,7 @@ De nuevo nos encontramos con un error de referencia, ya que se ha se ha declarad
 ## Ejercicio 5: Out of control.
 
 Nos encontramos de nuevo con un error lógico, ya que el array tiene 4 elementos (0-3) pero la condición (let i = 0; i <= numeros.length; i++) hace que "i" llegue a 4.
+
+## Ejercicio 6: Usando expresiones.
+
+El error se encuentra en la línea 2 (if (num % 2 = 0) {) de forma que nos encontramos un error de sintaxis ya que debería de haber 3 iguales (===) en vez de 1.
