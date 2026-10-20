@@ -38,3 +38,11 @@ Nos encontramos en este caso con 2 errores:
 
 * Nombre de archivo: Se debería de llamar "(nombre).html" en vez de "(nombre).js" como tenia anteriormente en mi caso.
 * Error de referencia: La variable se delcara como "msg" y luego es llamada como "msj" en la línea 10.
+
+## Ejercicio 9: Cálculo misterioso.
+
+Nos encontramos con un error lógico, ya que en la línea 10 (console.log(calcularPrecio(100, 60));) el 60 debería ser 0.6, ya que se le está aplicando un descuento  y la función no valida el valor.
+
+**Opinión personal**
+
+Personalmente, los ejercicios donde más me han costado encontrar el/los errores son el 6 y el 8, ya que en el 6, personalmente no llevo bien lo =/==/===. En el ejercicio 9 había visto el error de referencia, pero el 2 error seguía sin verlo ya que inconscientemente cuando pegué el código de los ejercicios los pegué todos en archivos .js, pero en ese ejercicio me di cuenta tarde de que era .html
