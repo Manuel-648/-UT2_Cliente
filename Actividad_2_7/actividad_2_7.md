@@ -27,3 +27,7 @@ Nos encontramos de nuevo con un error lógico, ya que el array tiene 4 elementos
 ## Ejercicio 6: Usando expresiones.
 
 El error se encuentra en la línea 2 (if (num % 2 = 0) {) de forma que nos encontramos un error de sintaxis ya que debería de haber 3 iguales (===) en vez de 1.
+
+## Ejercicio 7: Callback defectuoso.
+
+El error lo encontramos en la línea 2 (callback(dat);), de nuevo un error de referencia ya que "dat" no ha sido declarado, para solucionarlo deberíamos de poner "datos".
